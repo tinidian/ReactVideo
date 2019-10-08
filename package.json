@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/tinidian/ReactVideo/issues"
   },
-  "homepage": "https://github.com/tinidian/ReactVideo#readme"
+  "homepage": "https://github.com/tinidian/ReactVideo#readme",
+  "dependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
 }
