@@ -1,0 +1,19 @@
+{
+  "name": "reactvideo",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=DLX62G4lc44&amp;t=1459s",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinidian/ReactVideo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinidian/ReactVideo/issues"
+  },
+  "homepage": "https://github.com/tinidian/ReactVideo#readme"
+}
